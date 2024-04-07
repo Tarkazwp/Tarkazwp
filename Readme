@@ -1,0 +1,7 @@
+echo "# Tarkazwp" >> README.md 
+git init 
+git add README.md 
+git commit -m "pierwsze zatwierdzenie" 
+git gałąź -M główny 
+git zdalny dodaj początek https://github.com/Tarkazwp/Tarkazwp.git
+ git push - pochodzisz z głównego
